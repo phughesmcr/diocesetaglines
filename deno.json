@@ -1,0 +1,6 @@
+{
+  "lock": false,
+  "tasks": {
+    "fetch": "deno run --allow-env --allow-read --allow-write --allow-net fetch.ts"
+  }
+}
